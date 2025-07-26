@@ -4,3 +4,4 @@ __pycache__/
 *.log
 /.idea
 .venv/
+data/initial_accounts.json
