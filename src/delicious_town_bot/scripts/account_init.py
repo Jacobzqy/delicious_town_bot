@@ -1,49 +1,54 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+批量导入 initial_accounts.json 到数据库
+"""
+
 import json
 from pathlib import Path
 import typer
 
-from delicious_town_bot.db.session import engine, SessionLocal, Base
-from delicious_town_bot.db.models import Account
+from src.delicious_town_bot.utils.account_manager import AccountManager
 
-app = typer.Typer(help="初始化账号数据：从 JSON 导入 username/password")
+app = typer.Typer(add_help_option=False)
 
-@app.command("init")
-def account_init(
-    json_path: Path = Path("data/initial_accounts.json")
+DEFAULT_PATH = Path(__file__).resolve().parent.parent.parent.parent / "data" / "initial_accounts.json"
+
+@app.command()
+def main(
+    path: Path = typer.Argument(
+        DEFAULT_PATH,
+        exists=True,
+        dir_okay=False,
+        help="包含 username/password 列表的 JSON 文件"
+    )
 ):
-    """从 data/initial_accounts.json 批量导入账号"""
-    # 1. 确保表已创建
-    Base.metadata.create_all(bind=engine)
-    db = SessionLocal()
+    mgr = AccountManager()
+    added = updated = 0
 
-    # 2. 读取 JSON
-    if not json_path.exists():
-        typer.secho(f"❌ 文件不存在：{json_path}", fg=typer.colors.RED)
+    data = json.loads(path.read_text(encoding="utf-8"))
+    if not isinstance(data, list):
+        typer.echo("❌ JSON 格式错误，应为列表")
         raise typer.Exit(code=1)
 
-    data = json.loads(json_path.read_text(encoding="utf-8"))
-    added = 0
-    for entry in data:
-        username = entry.get("username")
-        password = entry.get("password")
+    for item in data:
+        username = item.get("username")
+        password = item.get("password")
         if not username or not password:
+            typer.echo(f"⚠️ 跳过缺少字段的条目: {item}")
             continue
+        try:
+            mgr.add_account(username, password)
+            added += 1
+        except ValueError:  # 已存在 → 更新密码
+            acc_list = mgr.list_accounts()
+            acc = next((a for a in acc_list if a.username == username), None)
+            if acc:
+                mgr.update_account(acc.id, password=password)
+                updated += 1
 
-        # 3. 插入或更新
-        acc = db.query(Account).filter_by(username=username).first()
-        if acc:
-            acc.password = password
-        else:
-            acc = Account(
-                username=username,
-                password=password
-            )
-            db.add(acc)
-        added += 1
-
-    db.commit()
-    db.close()
-    typer.secho(f"✅ 已导入/更新 {added} 个账号", fg=typer.colors.GREEN)
+    mgr.close()
+    typer.secho(f"✅ 导入完成：新增 {added} 个，更新 {updated} 个", fg=typer.colors.GREEN)
 
 if __name__ == "__main__":
     app()

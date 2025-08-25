@@ -1,0 +1,2354 @@
+{
+    "RECORDS": [
+        {
+            "id": "237",
+            "code": "1",
+            "name": "醋",
+            "gold": "1200",
+            "descript": "醋,一级食材",
+            "odds": "100",
+            "level": "1",
+            "permillage": "0"
+        },
+        {
+            "id": "238",
+            "code": "3",
+            "name": "白菜",
+            "gold": "1200",
+            "descript": "白菜,一级食材",
+            "odds": "100",
+            "level": "1",
+            "permillage": "0"
+        },
+        {
+            "id": "239",
+            "code": "4",
+            "name": "猪肉",
+            "gold": "3000",
+            "descript": "猪肉,一级食材",
+            "odds": "60",
+            "level": "1",
+            "permillage": "0"
+        },
+        {
+            "id": "240",
+            "code": "5",
+            "name": "黄瓜",
+            "gold": "1200",
+            "descript": "黄瓜,一级食材",
+            "odds": "100",
+            "level": "1",
+            "permillage": "0"
+        },
+        {
+            "id": "241",
+            "code": "6",
+            "name": "紫苏",
+            "gold": "3000",
+            "descript": "紫苏,一级食材",
+            "odds": "100",
+            "level": "1",
+            "permillage": "0"
+        },
+        {
+            "id": "242",
+            "code": "7",
+            "name": "鸡蛋",
+            "gold": "3000",
+            "descript": "鸡蛋,一级食材",
+            "odds": "70",
+            "level": "1",
+            "permillage": "0"
+        },
+        {
+            "id": "243",
+            "code": "8",
+            "name": "番茄",
+            "gold": "1200",
+            "descript": "番茄,一级食材",
+            "odds": "100",
+            "level": "1",
+            "permillage": "0"
+        },
+        {
+            "id": "244",
+            "code": "9",
+            "name": "茄子",
+            "gold": "1200",
+            "descript": "茄子,一级食材",
+            "odds": "100",
+            "level": "1",
+            "permillage": "0"
+        },
+        {
+            "id": "245",
+            "code": "10",
+            "name": "糯米",
+            "gold": "1200",
+            "descript": "糯米,一级食材",
+            "odds": "100",
+            "level": "1",
+            "permillage": "0"
+        },
+        {
+            "id": "246",
+            "code": "11",
+            "name": "白糖",
+            "gold": "3000",
+            "descript": "白糖,一级食材",
+            "odds": "80",
+            "level": "1",
+            "permillage": "0"
+        },
+        {
+            "id": "247",
+            "code": "12",
+            "name": "大蒜",
+            "gold": "3000",
+            "descript": "大蒜,一级食材",
+            "odds": "80",
+            "level": "1",
+            "permillage": "0"
+        },
+        {
+            "id": "248",
+            "code": "13",
+            "name": "辣椒",
+            "gold": "3000",
+            "descript": "辣椒,一级食材",
+            "odds": "80",
+            "level": "1",
+            "permillage": "0"
+        },
+        {
+            "id": "249",
+            "code": "14",
+            "name": "大葱",
+            "gold": "1200",
+            "descript": "大葱,一级食材",
+            "odds": "100",
+            "level": "1",
+            "permillage": "0"
+        },
+        {
+            "id": "250",
+            "code": "15",
+            "name": "香葱",
+            "gold": "1200",
+            "descript": "香葱,一级食材",
+            "odds": "100",
+            "level": "1",
+            "permillage": "0"
+        },
+        {
+            "id": "251",
+            "code": "16",
+            "name": "生姜",
+            "gold": "3000",
+            "descript": "生姜,一级食材",
+            "odds": "80",
+            "level": "1",
+            "permillage": "0"
+        },
+        {
+            "id": "252",
+            "code": "17",
+            "name": "面粉",
+            "gold": "1200",
+            "descript": "面粉,一级食材",
+            "odds": "100",
+            "level": "1",
+            "permillage": "0"
+        },
+        {
+            "id": "253",
+            "code": "18",
+            "name": "薏仁",
+            "gold": "1200",
+            "descript": "薏仁,一级食材",
+            "odds": "100",
+            "level": "1",
+            "permillage": "0"
+        },
+        {
+            "id": "254",
+            "code": "19",
+            "name": "糙米",
+            "gold": "1200",
+            "descript": "糙米,一级食材",
+            "odds": "100",
+            "level": "1",
+            "permillage": "0"
+        },
+        {
+            "id": "255",
+            "code": "20",
+            "name": "土豆",
+            "gold": "1200",
+            "descript": "土豆,一级食材",
+            "odds": "100",
+            "level": "1",
+            "permillage": "0"
+        },
+        {
+            "id": "256",
+            "code": "21",
+            "name": "生菜",
+            "gold": "1200",
+            "descript": "生菜,一级食材",
+            "odds": "100",
+            "level": "1",
+            "permillage": "0"
+        },
+        {
+            "id": "257",
+            "code": "22",
+            "name": "扁豆",
+            "gold": "1200",
+            "descript": "扁豆,一级食材",
+            "odds": "100",
+            "level": "1",
+            "permillage": "0"
+        },
+        {
+            "id": "258",
+            "code": "23",
+            "name": "干辣椒",
+            "gold": "1200",
+            "descript": "干辣椒,一级食材",
+            "odds": "100",
+            "level": "1",
+            "permillage": "0"
+        },
+        {
+            "id": "259",
+            "code": "24",
+            "name": "梨",
+            "gold": "3000",
+            "descript": "梨,二级食材",
+            "odds": "100",
+            "level": "2",
+            "permillage": "0"
+        },
+        {
+            "id": "260",
+            "code": "25",
+            "name": "鸡肉",
+            "gold": "3000",
+            "descript": "鸡肉,二级食材",
+            "odds": "45",
+            "level": "2",
+            "permillage": "0"
+        },
+        {
+            "id": "261",
+            "code": "26",
+            "name": "冬笋",
+            "gold": "3000",
+            "descript": "冬笋,二级食材",
+            "odds": "45",
+            "level": "2",
+            "permillage": "0"
+        },
+        {
+            "id": "262",
+            "code": "27",
+            "name": "鸭肉",
+            "gold": "3000",
+            "descript": "鸭肉,二级食材",
+            "odds": "100",
+            "level": "2",
+            "permillage": "0"
+        },
+        {
+            "id": "263",
+            "code": "28",
+            "name": "香菜",
+            "gold": "3000",
+            "descript": "香菜,二级食材",
+            "odds": "70",
+            "level": "2",
+            "permillage": "0"
+        },
+        {
+            "id": "264",
+            "code": "29",
+            "name": "豆腐",
+            "gold": "3000",
+            "descript": "豆腐,二级食材",
+            "odds": "80",
+            "level": "2",
+            "permillage": "0"
+        },
+        {
+            "id": "265",
+            "code": "30",
+            "name": "草鱼",
+            "gold": "3000",
+            "descript": "草鱼,二级食材",
+            "odds": "100",
+            "level": "2",
+            "permillage": "0"
+        },
+        {
+            "id": "266",
+            "code": "31",
+            "name": "荸荠",
+            "gold": "3000",
+            "descript": "荸荠,二级食材",
+            "odds": "100",
+            "level": "2",
+            "permillage": "0"
+        },
+        {
+            "id": "267",
+            "code": "32",
+            "name": "菜心",
+            "gold": "3000",
+            "descript": "菜心,二级食材",
+            "odds": "100",
+            "level": "2",
+            "permillage": "0"
+        },
+        {
+            "id": "268",
+            "code": "33",
+            "name": "黄鱼",
+            "gold": "3000",
+            "descript": "黄鱼,二级食材",
+            "odds": "100",
+            "level": "2",
+            "permillage": "0"
+        },
+        {
+            "id": "269",
+            "code": "34",
+            "name": "豌豆",
+            "gold": "3000",
+            "descript": "豌豆,二级食材",
+            "odds": "100",
+            "level": "2",
+            "permillage": "0"
+        },
+        {
+            "id": "270",
+            "code": "35",
+            "name": "米酒",
+            "gold": "3000",
+            "descript": "米酒,二级食材",
+            "odds": "45",
+            "level": "2",
+            "permillage": "0"
+        },
+        {
+            "id": "271",
+            "code": "36",
+            "name": "豆豉",
+            "gold": "3000",
+            "descript": "豆豉,二级食材",
+            "odds": "100",
+            "level": "2",
+            "permillage": "0"
+        },
+        {
+            "id": "272",
+            "code": "37",
+            "name": "腐乳",
+            "gold": "3000",
+            "descript": "腐乳,二级食材",
+            "odds": "100",
+            "level": "2",
+            "permillage": "0"
+        },
+        {
+            "id": "273",
+            "code": "38",
+            "name": "鲤鱼",
+            "gold": "3000",
+            "descript": "鲤鱼,二级食材",
+            "odds": "100",
+            "level": "2",
+            "permillage": "0"
+        },
+        {
+            "id": "274",
+            "code": "39",
+            "name": "冰糖",
+            "gold": "3000",
+            "descript": "冰糖,二级食材",
+            "odds": "100",
+            "level": "2",
+            "permillage": "0"
+        },
+        {
+            "id": "275",
+            "code": "40",
+            "name": "酒糟",
+            "gold": "3000",
+            "descript": "酒糟,二级食材",
+            "odds": "100",
+            "level": "2",
+            "permillage": "0"
+        },
+        {
+            "id": "276",
+            "code": "41",
+            "name": "蒜苗",
+            "gold": "3000",
+            "descript": "蒜苗,二级食材",
+            "odds": "100",
+            "level": "2",
+            "permillage": "0"
+        },
+        {
+            "id": "277",
+            "code": "42",
+            "name": "豆芽",
+            "gold": "3000",
+            "descript": "豆芽,二级食材",
+            "odds": "100",
+            "level": "2",
+            "permillage": "0"
+        },
+        {
+            "id": "278",
+            "code": "43",
+            "name": "粉丝",
+            "gold": "3000",
+            "descript": "粉丝,二级食材",
+            "odds": "100",
+            "level": "2",
+            "permillage": "0"
+        },
+        {
+            "id": "279",
+            "code": "44",
+            "name": "芹菜",
+            "gold": "3000",
+            "descript": "芹菜,二级食材",
+            "odds": "100",
+            "level": "2",
+            "permillage": "0"
+        },
+        {
+            "id": "280",
+            "code": "45",
+            "name": "茶叶",
+            "gold": "3000",
+            "descript": "茶叶,二级食材",
+            "odds": "100",
+            "level": "2",
+            "permillage": "0"
+        },
+        {
+            "id": "281",
+            "code": "46",
+            "name": "板栗",
+            "gold": "3000",
+            "descript": "板栗,二级食材",
+            "odds": "100",
+            "level": "2",
+            "permillage": "0"
+        },
+        {
+            "id": "282",
+            "code": "47",
+            "name": "莲藕",
+            "gold": "3000",
+            "descript": "莲藕,二级食材",
+            "odds": "100",
+            "level": "2",
+            "permillage": "0"
+        },
+        {
+            "id": "283",
+            "code": "48",
+            "name": "菠菜",
+            "gold": "3000",
+            "descript": "菠菜,二级食材",
+            "odds": "100",
+            "level": "2",
+            "permillage": "0"
+        },
+        {
+            "id": "284",
+            "code": "49",
+            "name": "洋葱",
+            "gold": "3000",
+            "descript": "洋葱,二级食材",
+            "odds": "100",
+            "level": "2",
+            "permillage": "0"
+        },
+        {
+            "id": "285",
+            "code": "50",
+            "name": "冬瓜",
+            "gold": "3000",
+            "descript": "冬瓜,二级食材",
+            "odds": "100",
+            "level": "2",
+            "permillage": "0"
+        },
+        {
+            "id": "286",
+            "code": "51",
+            "name": "芋头",
+            "gold": "3000",
+            "descript": "芋头,二级食材",
+            "odds": "100",
+            "level": "2",
+            "permillage": "0"
+        },
+        {
+            "id": "287",
+            "code": "52",
+            "name": "桂圆",
+            "gold": "3000",
+            "descript": "桂圆,二级食材",
+            "odds": "100",
+            "level": "2",
+            "permillage": "0"
+        },
+        {
+            "id": "288",
+            "code": "53",
+            "name": "牛奶",
+            "gold": "3000",
+            "descript": "牛奶,二级食材",
+            "odds": "100",
+            "level": "2",
+            "permillage": "0"
+        },
+        {
+            "id": "289",
+            "code": "54",
+            "name": "鲢鱼",
+            "gold": "3000",
+            "descript": "鲢鱼,二级食材",
+            "odds": "100",
+            "level": "2",
+            "permillage": "0"
+        },
+        {
+            "id": "290",
+            "code": "55",
+            "name": "芝麻",
+            "gold": "3000",
+            "descript": "芝麻,二级食材",
+            "odds": "100",
+            "level": "2",
+            "permillage": "0"
+        },
+        {
+            "id": "291",
+            "code": "56",
+            "name": "南瓜",
+            "gold": "3000",
+            "descript": "南瓜,二级食材",
+            "odds": "100",
+            "level": "2",
+            "permillage": "0"
+        },
+        {
+            "id": "292",
+            "code": "57",
+            "name": "花菜",
+            "gold": "3000",
+            "descript": "花菜,二级食材",
+            "odds": "100",
+            "level": "2",
+            "permillage": "0"
+        },
+        {
+            "id": "293",
+            "code": "58",
+            "name": "花生",
+            "gold": "3000",
+            "descript": "花生,二级食材",
+            "odds": "100",
+            "level": "2",
+            "permillage": "0"
+        },
+        {
+            "id": "294",
+            "code": "59",
+            "name": "海带",
+            "gold": "3000",
+            "descript": "海带,二级食材",
+            "odds": "100",
+            "level": "2",
+            "permillage": "0"
+        },
+        {
+            "id": "295",
+            "code": "60",
+            "name": "通菜",
+            "gold": "3000",
+            "descript": "通菜,二级食材",
+            "odds": "100",
+            "level": "2",
+            "permillage": "0"
+        },
+        {
+            "id": "296",
+            "code": "61",
+            "name": "鸭血",
+            "gold": "3000",
+            "descript": "鸭血,二级食材",
+            "odds": "100",
+            "level": "2",
+            "permillage": "0"
+        },
+        {
+            "id": "297",
+            "code": "62",
+            "name": "菠萝",
+            "gold": "3000",
+            "descript": "菠萝,二级食材",
+            "odds": "100",
+            "level": "2",
+            "permillage": "0"
+        },
+        {
+            "id": "298",
+            "code": "63",
+            "name": "香干",
+            "gold": "3000",
+            "descript": "香干,二级食材",
+            "odds": "100",
+            "level": "2",
+            "permillage": "0"
+        },
+        {
+            "id": "299",
+            "code": "64",
+            "name": "胡椒",
+            "gold": "3000",
+            "descript": "胡椒,二级食材",
+            "odds": "100",
+            "level": "2",
+            "permillage": "0"
+        },
+        {
+            "id": "300",
+            "code": "65",
+            "name": "莴笋",
+            "gold": "3000",
+            "descript": "莴笋,二级食材",
+            "odds": "100",
+            "level": "2",
+            "permillage": "0"
+        },
+        {
+            "id": "301",
+            "code": "66",
+            "name": "花椒",
+            "gold": "3000",
+            "descript": "花椒,二级食材",
+            "odds": "100",
+            "level": "2",
+            "permillage": "0"
+        },
+        {
+            "id": "302",
+            "code": "67",
+            "name": "葡萄",
+            "gold": "3000",
+            "descript": "葡萄,二级食材",
+            "odds": "100",
+            "level": "2",
+            "permillage": "0"
+        },
+        {
+            "id": "303",
+            "code": "68",
+            "name": "红枣",
+            "gold": "3000",
+            "descript": "红枣,二级食材",
+            "odds": "100",
+            "level": "2",
+            "permillage": "0"
+        },
+        {
+            "id": "304",
+            "code": "69",
+            "name": "奶油",
+            "gold": "3000",
+            "descript": "奶油,二级食材",
+            "odds": "100",
+            "level": "2",
+            "permillage": "0"
+        },
+        {
+            "id": "305",
+            "code": "70",
+            "name": "蓝莓",
+            "gold": "3000",
+            "descript": "蓝莓,二级食材",
+            "odds": "100",
+            "level": "2",
+            "permillage": "0"
+        },
+        {
+            "id": "306",
+            "code": "71",
+            "name": "莜面",
+            "gold": "3000",
+            "descript": "莜面,二级食材",
+            "odds": "100",
+            "level": "2",
+            "permillage": "0"
+        },
+        {
+            "id": "307",
+            "code": "72",
+            "name": "孜然",
+            "gold": "3000",
+            "descript": "孜然,二级食材",
+            "odds": "100",
+            "level": "2",
+            "permillage": "0"
+        },
+        {
+            "id": "308",
+            "code": "73",
+            "name": "年糕",
+            "gold": "3000",
+            "descript": "年糕,二级食材",
+            "odds": "100",
+            "level": "2",
+            "permillage": "0"
+        },
+        {
+            "id": "309",
+            "code": "74",
+            "name": "枸杞",
+            "gold": "3000",
+            "descript": "枸杞,二级食材",
+            "odds": "100",
+            "level": "2",
+            "permillage": "0"
+        },
+        {
+            "id": "310",
+            "code": "75",
+            "name": "金糕",
+            "gold": "3000",
+            "descript": "金糕,二级食材",
+            "odds": "100",
+            "level": "2",
+            "permillage": "0"
+        },
+        {
+            "id": "311",
+            "code": "76",
+            "name": "酸菜",
+            "gold": "3000",
+            "descript": "酸菜,二级食材",
+            "odds": "100",
+            "level": "2",
+            "permillage": "0"
+        },
+        {
+            "id": "312",
+            "code": "77",
+            "name": "粉条",
+            "gold": "3000",
+            "descript": "粉条,二级食材",
+            "odds": "100",
+            "level": "2",
+            "permillage": "0"
+        },
+        {
+            "id": "313",
+            "code": "78",
+            "name": "豆沙",
+            "gold": "3000",
+            "descript": "豆沙,二级食材",
+            "odds": "100",
+            "level": "2",
+            "permillage": "0"
+        },
+        {
+            "id": "314",
+            "code": "79",
+            "name": "鸽蛋",
+            "gold": "3000",
+            "descript": "鸽蛋,二级食材",
+            "odds": "100",
+            "level": "2",
+            "permillage": "0"
+        },
+        {
+            "id": "315",
+            "code": "80",
+            "name": "琼脂",
+            "gold": "3000",
+            "descript": "琼脂,二级食材",
+            "odds": "100",
+            "level": "2",
+            "permillage": "0"
+        },
+        {
+            "id": "316",
+            "code": "81",
+            "name": "春笋",
+            "gold": "3000",
+            "descript": "春笋,二级食材",
+            "odds": "100",
+            "level": "2",
+            "permillage": "0"
+        },
+        {
+            "id": "317",
+            "code": "82",
+            "name": "香蕉",
+            "gold": "3000",
+            "descript": "香蕉,二级食材",
+            "odds": "100",
+            "level": "2",
+            "permillage": "0"
+        },
+        {
+            "id": "318",
+            "code": "83",
+            "name": "莲子",
+            "gold": "3000",
+            "descript": "莲子,二级食材",
+            "odds": "100",
+            "level": "2",
+            "permillage": "0"
+        },
+        {
+            "id": "319",
+            "code": "84",
+            "name": "桂花",
+            "gold": "3000",
+            "descript": "桂花,二级食材",
+            "odds": "100",
+            "level": "2",
+            "permillage": "0"
+        },
+        {
+            "id": "320",
+            "code": "85",
+            "name": "豆瓣酱",
+            "gold": "3000",
+            "descript": "豆瓣酱,二级食材",
+            "odds": "80",
+            "level": "2",
+            "permillage": "0"
+        },
+        {
+            "id": "321",
+            "code": "86",
+            "name": "蕃茄酱",
+            "gold": "3000",
+            "descript": "蕃茄酱,二级食材",
+            "odds": "100",
+            "level": "2",
+            "permillage": "0"
+        },
+        {
+            "id": "322",
+            "code": "87",
+            "name": "胡萝卜",
+            "gold": "3000",
+            "descript": "胡萝卜,二级食材",
+            "odds": "100",
+            "level": "2",
+            "permillage": "0"
+        },
+        {
+            "id": "323",
+            "code": "88",
+            "name": "甜面酱",
+            "gold": "3000",
+            "descript": "甜面酱,二级食材",
+            "odds": "100",
+            "level": "2",
+            "permillage": "0"
+        },
+        {
+            "id": "324",
+            "code": "89",
+            "name": "白萝卜",
+            "gold": "3000",
+            "descript": "白萝卜,二级食材",
+            "odds": "100",
+            "level": "2",
+            "permillage": "0"
+        },
+        {
+            "id": "325",
+            "code": "90",
+            "name": "沙茶酱",
+            "gold": "3000",
+            "descript": "沙茶酱,二级食材",
+            "odds": "100",
+            "level": "2",
+            "permillage": "0"
+        },
+        {
+            "id": "326",
+            "code": "91",
+            "name": "十三香",
+            "gold": "3000",
+            "descript": "十三香,二级食材",
+            "odds": "100",
+            "level": "2",
+            "permillage": "0"
+        },
+        {
+            "id": "327",
+            "code": "92",
+            "name": "鹌鹑蛋",
+            "gold": "3000",
+            "descript": "鹌鹑蛋,二级食材",
+            "odds": "100",
+            "level": "2",
+            "permillage": "0"
+        },
+        {
+            "id": "328",
+            "code": "93",
+            "name": "可可豆",
+            "gold": "3000",
+            "descript": "可可豆,二级食材",
+            "odds": "100",
+            "level": "2",
+            "permillage": "0"
+        },
+        {
+            "id": "329",
+            "code": "94",
+            "name": "对虾",
+            "gold": "9000",
+            "descript": "对虾,三级食材",
+            "odds": "50",
+            "level": "3",
+            "permillage": "0"
+        },
+        {
+            "id": "330",
+            "code": "95",
+            "name": "桂鱼",
+            "gold": "9000",
+            "descript": "桂鱼,三级食材",
+            "odds": "70",
+            "level": "3",
+            "permillage": "0"
+        },
+        {
+            "id": "331",
+            "code": "96",
+            "name": "高汤",
+            "gold": "9000",
+            "descript": "高汤,三级食材",
+            "odds": "50",
+            "level": "3",
+            "permillage": "0"
+        },
+        {
+            "id": "332",
+            "code": "97",
+            "name": "瑶柱",
+            "gold": "9000",
+            "descript": "瑶柱,三级食材",
+            "odds": "80",
+            "level": "3",
+            "permillage": "0"
+        },
+        {
+            "id": "333",
+            "code": "98",
+            "name": "兔肉",
+            "gold": "9000",
+            "descript": "兔肉,三级食材",
+            "odds": "100",
+            "level": "3",
+            "permillage": "0"
+        },
+        {
+            "id": "334",
+            "code": "99",
+            "name": "螺肉",
+            "gold": "9000",
+            "descript": "螺肉,三级食材",
+            "odds": "100",
+            "level": "3",
+            "permillage": "0"
+        },
+        {
+            "id": "335",
+            "code": "100",
+            "name": "鳗鱼",
+            "gold": "9000",
+            "descript": "鳗鱼,三级食材",
+            "odds": "100",
+            "level": "3",
+            "permillage": "0"
+        },
+        {
+            "id": "336",
+            "code": "101",
+            "name": "鹅肉",
+            "gold": "9000",
+            "descript": "鹅肉,三级食材",
+            "odds": "100",
+            "level": "3",
+            "permillage": "0"
+        },
+        {
+            "id": "337",
+            "code": "102",
+            "name": "银鱼",
+            "gold": "9000",
+            "descript": "银鱼,三级食材",
+            "odds": "100",
+            "level": "3",
+            "permillage": "0"
+        },
+        {
+            "id": "338",
+            "code": "103",
+            "name": "牛蛙",
+            "gold": "9000",
+            "descript": "牛蛙,三级食材",
+            "odds": "100",
+            "level": "3",
+            "permillage": "0"
+        },
+        {
+            "id": "339",
+            "code": "104",
+            "name": "鲥鱼",
+            "gold": "9000",
+            "descript": "鲥鱼,三级食材",
+            "odds": "100",
+            "level": "3",
+            "permillage": "0"
+        },
+        {
+            "id": "340",
+            "code": "105",
+            "name": "莼菜",
+            "gold": "9000",
+            "descript": "莼菜,三级食材",
+            "odds": "100",
+            "level": "3",
+            "permillage": "0"
+        },
+        {
+            "id": "341",
+            "code": "106",
+            "name": "淡菜",
+            "gold": "9000",
+            "descript": "淡菜,三级食材",
+            "odds": "100",
+            "level": "3",
+            "permillage": "0"
+        },
+        {
+            "id": "342",
+            "code": "107",
+            "name": "鲶鱼",
+            "gold": "9000",
+            "descript": "鲶鱼,三级食材",
+            "odds": "100",
+            "level": "3",
+            "permillage": "0"
+        },
+        {
+            "id": "343",
+            "code": "108",
+            "name": "青鱼",
+            "gold": "9000",
+            "descript": "青鱼,三级食材",
+            "odds": "100",
+            "level": "3",
+            "permillage": "0"
+        },
+        {
+            "id": "344",
+            "code": "109",
+            "name": "火腿",
+            "gold": "9000",
+            "descript": "火腿,三级食材",
+            "odds": "45",
+            "level": "3",
+            "permillage": "0"
+        },
+        {
+            "id": "345",
+            "code": "110",
+            "name": "香菇",
+            "gold": "9000",
+            "descript": "香菇,三级食材",
+            "odds": "45",
+            "level": "3",
+            "permillage": "0"
+        },
+        {
+            "id": "346",
+            "code": "111",
+            "name": "蘑菇",
+            "gold": "9000",
+            "descript": "蘑菇,三级食材",
+            "odds": "70",
+            "level": "3",
+            "permillage": "0"
+        },
+        {
+            "id": "347",
+            "code": "112",
+            "name": "排骨",
+            "gold": "9000",
+            "descript": "排骨,三级食材",
+            "odds": "70",
+            "level": "3",
+            "permillage": "0"
+        },
+        {
+            "id": "348",
+            "code": "113",
+            "name": "鳝鱼",
+            "gold": "9000",
+            "descript": "鳝鱼,三级食材",
+            "odds": "100",
+            "level": "3",
+            "permillage": "0"
+        },
+        {
+            "id": "349",
+            "code": "114",
+            "name": "鱿鱼",
+            "gold": "9000",
+            "descript": "鱿鱼,三级食材",
+            "odds": "100",
+            "level": "3",
+            "permillage": "0"
+        },
+        {
+            "id": "350",
+            "code": "115",
+            "name": "河虾",
+            "gold": "9000",
+            "descript": "河虾,三级食材",
+            "odds": "100",
+            "level": "3",
+            "permillage": "0"
+        },
+        {
+            "id": "351",
+            "code": "116",
+            "name": "羊肉",
+            "gold": "9000",
+            "descript": "羊肉,三级食材",
+            "odds": "70",
+            "level": "3",
+            "permillage": "0"
+        },
+        {
+            "id": "352",
+            "code": "117",
+            "name": "木耳",
+            "gold": "9000",
+            "descript": "木耳,三级食材",
+            "odds": "100",
+            "level": "3",
+            "permillage": "0"
+        },
+        {
+            "id": "353",
+            "code": "118",
+            "name": "豆苗",
+            "gold": "9000",
+            "descript": "豆苗,三级食材",
+            "odds": "100",
+            "level": "3",
+            "permillage": "0"
+        },
+        {
+            "id": "354",
+            "code": "119",
+            "name": "猪肚",
+            "gold": "9000",
+            "descript": "猪肚,三级食材",
+            "odds": "100",
+            "level": "3",
+            "permillage": "0"
+        },
+        {
+            "id": "355",
+            "code": "120",
+            "name": "牛肉",
+            "gold": "9000",
+            "descript": "牛肉,三级食材",
+            "odds": "100",
+            "level": "3",
+            "permillage": "0"
+        },
+        {
+            "id": "356",
+            "code": "121",
+            "name": "鲈鱼",
+            "gold": "9000",
+            "descript": "鲈鱼,三级食材",
+            "odds": "100",
+            "level": "3",
+            "permillage": "0"
+        },
+        {
+            "id": "357",
+            "code": "122",
+            "name": "白果",
+            "gold": "9000",
+            "descript": "白果,三级食材",
+            "odds": "100",
+            "level": "3",
+            "permillage": "0"
+        },
+        {
+            "id": "358",
+            "code": "123",
+            "name": "腊肉",
+            "gold": "9000",
+            "descript": "腊肉,三级食材",
+            "odds": "100",
+            "level": "3",
+            "permillage": "0"
+        },
+        {
+            "id": "359",
+            "code": "124",
+            "name": "百合",
+            "gold": "9000",
+            "descript": "百合,三级食材",
+            "odds": "100",
+            "level": "3",
+            "permillage": "0"
+        },
+        {
+            "id": "360",
+            "code": "125",
+            "name": "芥兰",
+            "gold": "9000",
+            "descript": "芥兰,三级食材",
+            "odds": "100",
+            "level": "3",
+            "permillage": "0"
+        },
+        {
+            "id": "361",
+            "code": "126",
+            "name": "淮山",
+            "gold": "9000",
+            "descript": "淮山,三级食材",
+            "odds": "100",
+            "level": "3",
+            "permillage": "0"
+        },
+        {
+            "id": "362",
+            "code": "127",
+            "name": "蒲菜",
+            "gold": "9000",
+            "descript": "蒲菜,三级食材",
+            "odds": "100",
+            "level": "3",
+            "permillage": "0"
+        },
+        {
+            "id": "363",
+            "code": "128",
+            "name": "韭花",
+            "gold": "9000",
+            "descript": "韭花,三级食材",
+            "odds": "100",
+            "level": "3",
+            "permillage": "0"
+        },
+        {
+            "id": "364",
+            "code": "129",
+            "name": "咸鱼",
+            "gold": "9000",
+            "descript": "咸鱼,三级食材",
+            "odds": "100",
+            "level": "3",
+            "permillage": "0"
+        },
+        {
+            "id": "365",
+            "code": "130",
+            "name": "鳙鱼",
+            "gold": "9000",
+            "descript": "鳙鱼,三级食材",
+            "odds": "100",
+            "level": "3",
+            "permillage": "0"
+        },
+        {
+            "id": "366",
+            "code": "131",
+            "name": "桑椹",
+            "gold": "9000",
+            "descript": "桑椹,三级食材",
+            "odds": "100",
+            "level": "3",
+            "permillage": "0"
+        },
+        {
+            "id": "367",
+            "code": "132",
+            "name": "杏仁",
+            "gold": "9000",
+            "descript": "杏仁,三级食材",
+            "odds": "100",
+            "level": "3",
+            "permillage": "0"
+        },
+        {
+            "id": "368",
+            "code": "133",
+            "name": "樱桃",
+            "gold": "9000",
+            "descript": "樱桃,三级食材",
+            "odds": "100",
+            "level": "3",
+            "permillage": "0"
+        },
+        {
+            "id": "369",
+            "code": "134",
+            "name": "酸汤",
+            "gold": "9000",
+            "descript": "酸汤,三级食材",
+            "odds": "100",
+            "level": "3",
+            "permillage": "0"
+        },
+        {
+            "id": "370",
+            "code": "135",
+            "name": "银耳",
+            "gold": "9000",
+            "descript": "银耳,三级食材",
+            "odds": "100",
+            "level": "3",
+            "permillage": "0"
+        },
+        {
+            "id": "371",
+            "code": "136",
+            "name": "核桃",
+            "gold": "9000",
+            "descript": "核桃,三级食材",
+            "odds": "100",
+            "level": "3",
+            "permillage": "0"
+        },
+        {
+            "id": "372",
+            "code": "137",
+            "name": "香肠",
+            "gold": "9000",
+            "descript": "香肠,三级食材",
+            "odds": "100",
+            "level": "3",
+            "permillage": "0"
+        },
+        {
+            "id": "373",
+            "code": "138",
+            "name": "鹌鹑",
+            "gold": "9000",
+            "descript": "鹌鹑,三级食材",
+            "odds": "100",
+            "level": "3",
+            "permillage": "0"
+        },
+        {
+            "id": "374",
+            "code": "139",
+            "name": "黄骨鱼",
+            "gold": "9000",
+            "descript": "黄骨鱼,三级食材",
+            "odds": "100",
+            "level": "3",
+            "permillage": "0"
+        },
+        {
+            "id": "375",
+            "code": "140",
+            "name": "花雕酒",
+            "gold": "9000",
+            "descript": "花雕酒,三级食材",
+            "odds": "100",
+            "level": "3",
+            "permillage": "0"
+        },
+        {
+            "id": "376",
+            "code": "141",
+            "name": "小龙虾",
+            "gold": "9000",
+            "descript": "小龙虾,三级食材",
+            "odds": "100",
+            "level": "3",
+            "permillage": "0"
+        },
+        {
+            "id": "377",
+            "code": "142",
+            "name": "五香料",
+            "gold": "9000",
+            "descript": "五香料,三级食材",
+            "odds": "70",
+            "level": "3",
+            "permillage": "0"
+        },
+        {
+            "id": "378",
+            "code": "143",
+            "name": "西兰花",
+            "gold": "9000",
+            "descript": "西兰花,三级食材",
+            "odds": "100",
+            "level": "3",
+            "permillage": "0"
+        },
+        {
+            "id": "379",
+            "code": "144",
+            "name": "火焙鱼",
+            "gold": "9000",
+            "descript": "火焙鱼,三级食材",
+            "odds": "100",
+            "level": "3",
+            "permillage": "0"
+        },
+        {
+            "id": "380",
+            "code": "145",
+            "name": "金针菇",
+            "gold": "9000",
+            "descript": "金针菇,三级食材",
+            "odds": "100",
+            "level": "3",
+            "permillage": "0"
+        },
+        {
+            "id": "381",
+            "code": "146",
+            "name": "武昌鱼",
+            "gold": "9000",
+            "descript": "武昌鱼,三级食材",
+            "odds": "100",
+            "level": "3",
+            "permillage": "0"
+        },
+        {
+            "id": "382",
+            "code": "147",
+            "name": "龙须菜",
+            "gold": "9000",
+            "descript": "龙须菜,三级食材",
+            "odds": "100",
+            "level": "3",
+            "permillage": "0"
+        },
+        {
+            "id": "383",
+            "code": "148",
+            "name": "核桃仁",
+            "gold": "9000",
+            "descript": "核桃仁,三级食材",
+            "odds": "100",
+            "level": "3",
+            "permillage": "0"
+        },
+        {
+            "id": "384",
+            "code": "149",
+            "name": "韩城花椒",
+            "gold": "9000",
+            "descript": "韩城花椒,三级食材",
+            "odds": "100",
+            "level": "3",
+            "permillage": "0"
+        },
+        {
+            "id": "385",
+            "code": "150",
+            "name": "郫县豆瓣",
+            "gold": "9000",
+            "descript": "郫县豆瓣,三级食材",
+            "odds": "100",
+            "level": "3",
+            "permillage": "0"
+        },
+        {
+            "id": "386",
+            "code": "151",
+            "name": "戚风蛋糕",
+            "gold": "9000",
+            "descript": "戚风蛋糕,三级食材",
+            "odds": "100",
+            "level": "3",
+            "permillage": "0"
+        },
+        {
+            "id": "387",
+            "code": "152",
+            "name": "宝庆朝天椒",
+            "gold": "9000",
+            "descript": "宝庆朝天椒,三级食材",
+            "odds": "100",
+            "level": "3",
+            "permillage": "0"
+        },
+        {
+            "id": "388",
+            "code": "153",
+            "name": "柑桔",
+            "gold": "9000",
+            "descript": "柑桔,三级食材",
+            "odds": "100",
+            "level": "3",
+            "permillage": "0"
+        },
+        {
+            "id": "389",
+            "code": "154",
+            "name": "青蟹",
+            "gold": "22000",
+            "descript": "青蟹,四级食材",
+            "odds": "35",
+            "level": "4",
+            "permillage": "0"
+        },
+        {
+            "id": "390",
+            "code": "155",
+            "name": "海参",
+            "gold": "22000",
+            "descript": "海参,四级食材",
+            "odds": "35",
+            "level": "4",
+            "permillage": "0"
+        },
+        {
+            "id": "391",
+            "code": "156",
+            "name": "水鱼",
+            "gold": "22000",
+            "descript": "水鱼,四级食材",
+            "odds": "60",
+            "level": "4",
+            "permillage": "0"
+        },
+        {
+            "id": "392",
+            "code": "157",
+            "name": "蛇肉",
+            "gold": "22000",
+            "descript": "蛇肉,四级食材",
+            "odds": "100",
+            "level": "4",
+            "permillage": "0"
+        },
+        {
+            "id": "393",
+            "code": "158",
+            "name": "石斑",
+            "gold": "22000",
+            "descript": "石斑,四级食材",
+            "odds": "100",
+            "level": "4",
+            "permillage": "0"
+        },
+        {
+            "id": "394",
+            "code": "159",
+            "name": "江团",
+            "gold": "22000",
+            "descript": "江团,四级食材",
+            "odds": "100",
+            "level": "4",
+            "permillage": "0"
+        },
+        {
+            "id": "395",
+            "code": "160",
+            "name": "雅鱼",
+            "gold": "22000",
+            "descript": "雅鱼,四级食材",
+            "odds": "100",
+            "level": "4",
+            "permillage": "0"
+        },
+        {
+            "id": "396",
+            "code": "161",
+            "name": "黑鱼",
+            "gold": "22000",
+            "descript": "黑鱼,四级食材",
+            "odds": "100",
+            "level": "4",
+            "permillage": "0"
+        },
+        {
+            "id": "397",
+            "code": "162",
+            "name": "榛鸡",
+            "gold": "22000",
+            "descript": "榛鸡,四级食材",
+            "odds": "100",
+            "level": "4",
+            "permillage": "0"
+        },
+        {
+            "id": "398",
+            "code": "163",
+            "name": "鸭舌",
+            "gold": "22000",
+            "descript": "鸭舌,四级食材",
+            "odds": "100",
+            "level": "4",
+            "permillage": "0"
+        },
+        {
+            "id": "399",
+            "code": "164",
+            "name": "鹿肉",
+            "gold": "22000",
+            "descript": "鹿肉,四级食材",
+            "odds": "100",
+            "level": "4",
+            "permillage": "0"
+        },
+        {
+            "id": "400",
+            "code": "165",
+            "name": "草鸡蛋",
+            "gold": "22000",
+            "descript": "草鸡蛋,四级食材",
+            "odds": "70",
+            "level": "4",
+            "permillage": "0"
+        },
+        {
+            "id": "401",
+            "code": "166",
+            "name": "金华火腿",
+            "gold": "22000",
+            "descript": "金华火腿,四级食材",
+            "odds": "45",
+            "level": "4",
+            "permillage": "0"
+        },
+        {
+            "id": "402",
+            "code": "167",
+            "name": "黄河鲤鱼",
+            "gold": "22000",
+            "descript": "黄河鲤鱼,四级食材",
+            "odds": "100",
+            "level": "4",
+            "permillage": "0"
+        },
+        {
+            "id": "403",
+            "code": "168",
+            "name": "松江鲈鱼",
+            "gold": "22000",
+            "descript": "松江鲈鱼,四级食材",
+            "odds": "100",
+            "level": "4",
+            "permillage": "0"
+        },
+        {
+            "id": "404",
+            "code": "169",
+            "name": "山黑猪肉",
+            "gold": "22000",
+            "descript": "山黑猪肉,四级食材",
+            "odds": "45",
+            "level": "4",
+            "permillage": "0"
+        },
+        {
+            "id": "405",
+            "code": "170",
+            "name": "三黄鸡肉",
+            "gold": "22000",
+            "descript": "三黄鸡肉,四级食材",
+            "odds": "45",
+            "level": "4",
+            "permillage": "0"
+        },
+        {
+            "id": "406",
+            "code": "171",
+            "name": "黄山毛峰",
+            "gold": "22000",
+            "descript": "黄山毛峰,四级食材",
+            "odds": "100",
+            "level": "4",
+            "permillage": "0"
+        },
+        {
+            "id": "407",
+            "code": "172",
+            "name": "雪花牛肉",
+            "gold": "22000",
+            "descript": "雪花牛肉,四级食材",
+            "odds": "100",
+            "level": "4",
+            "permillage": "0"
+        },
+        {
+            "id": "408",
+            "code": "173",
+            "name": "西湖龙井",
+            "gold": "22000",
+            "descript": "西湖龙井,四级食材",
+            "odds": "100",
+            "level": "4",
+            "permillage": "0"
+        },
+        {
+            "id": "409",
+            "code": "174",
+            "name": "太湖白鱼",
+            "gold": "22000",
+            "descript": "太湖白鱼,四级食材",
+            "odds": "100",
+            "level": "4",
+            "permillage": "0"
+        },
+        {
+            "id": "410",
+            "code": "175",
+            "name": "太湖白虾",
+            "gold": "22000",
+            "descript": "太湖白虾,四级食材",
+            "odds": "100",
+            "level": "4",
+            "permillage": "0"
+        },
+        {
+            "id": "411",
+            "code": "176",
+            "name": "太湖银鱼",
+            "gold": "22000",
+            "descript": "太湖银鱼,四级食材",
+            "odds": "100",
+            "level": "4",
+            "permillage": "0"
+        },
+        {
+            "id": "412",
+            "code": "177",
+            "name": "渤海对虾",
+            "gold": "22000",
+            "descript": "渤海对虾,四级食材",
+            "odds": "70",
+            "level": "4",
+            "permillage": "0"
+        },
+        {
+            "id": "413",
+            "code": "178",
+            "name": "海蜇",
+            "gold": "22000",
+            "descript": "海蜇,四级食材",
+            "odds": "100",
+            "level": "4",
+            "permillage": "0"
+        },
+        {
+            "id": "414",
+            "code": "179",
+            "name": "鸽肉",
+            "gold": "22000",
+            "descript": "鸽肉,四级食材",
+            "odds": "100",
+            "level": "4",
+            "permillage": "0"
+        },
+        {
+            "id": "415",
+            "code": "180",
+            "name": "章丘大葱",
+            "gold": "22000",
+            "descript": "章丘大葱,四级食材",
+            "odds": "100",
+            "level": "4",
+            "permillage": "0"
+        },
+        {
+            "id": "416",
+            "code": "181",
+            "name": "山西老陈醋",
+            "gold": "22000",
+            "descript": "山西老陈醋,四级食材",
+            "odds": "100",
+            "level": "4",
+            "permillage": "0"
+        },
+        {
+            "id": "417",
+            "code": "182",
+            "name": "猴头菇",
+            "gold": "22000",
+            "descript": "猴头菇,四级食材",
+            "odds": "100",
+            "level": "4",
+            "permillage": "0"
+        },
+        {
+            "id": "418",
+            "code": "183",
+            "name": "鱼翅",
+            "gold": "50000",
+            "descript": "鱼翅,五级食材",
+            "odds": "25",
+            "level": "5",
+            "permillage": "0"
+        },
+        {
+            "id": "419",
+            "code": "184",
+            "name": "鲍鱼",
+            "gold": "50000",
+            "descript": "鲍鱼,五级食材",
+            "odds": "30",
+            "level": "5",
+            "permillage": "0"
+        },
+        {
+            "id": "420",
+            "code": "185",
+            "name": "鱼肚",
+            "gold": "50000",
+            "descript": "鱼肚,五级食材",
+            "odds": "45",
+            "level": "5",
+            "permillage": "0"
+        },
+        {
+            "id": "421",
+            "code": "186",
+            "name": "燕窝",
+            "gold": "50000",
+            "descript": "燕窝,五级食材",
+            "odds": "45",
+            "level": "5",
+            "permillage": "0"
+        },
+        {
+            "id": "422",
+            "code": "187",
+            "name": "虫草",
+            "gold": "50000",
+            "descript": "虫草,五级食材",
+            "odds": "45",
+            "level": "5",
+            "permillage": "0"
+        },
+        {
+            "id": "423",
+            "code": "188",
+            "name": "辽参",
+            "gold": "50000",
+            "descript": "辽参,五级食材",
+            "odds": "100",
+            "level": "5",
+            "permillage": "0"
+        },
+        {
+            "id": "424",
+            "code": "189",
+            "name": "松茸",
+            "gold": "50000",
+            "descript": "松茸,五级食材",
+            "odds": "100",
+            "level": "5",
+            "permillage": "0"
+        },
+        {
+            "id": "425",
+            "code": "190",
+            "name": "鹿茸",
+            "gold": "50000",
+            "descript": "鹿茸,五级食材",
+            "odds": "100",
+            "level": "5",
+            "permillage": "0"
+        },
+        {
+            "id": "426",
+            "code": "191",
+            "name": "驼峰",
+            "gold": "50000",
+            "descript": "驼峰,五级食材",
+            "odds": "100",
+            "level": "5",
+            "permillage": "0"
+        },
+        {
+            "id": "427",
+            "code": "192",
+            "name": "人参",
+            "gold": "50000",
+            "descript": "人参,五级食材",
+            "odds": "100",
+            "level": "5",
+            "permillage": "0"
+        },
+        {
+            "id": "428",
+            "code": "193",
+            "name": "熊掌",
+            "gold": "50000",
+            "descript": "熊掌,五级食材",
+            "odds": "100",
+            "level": "5",
+            "permillage": "0"
+        },
+        {
+            "id": "429",
+            "code": "194",
+            "name": "鹿冲",
+            "gold": "50000",
+            "descript": "鹿冲,五级食材",
+            "odds": "100",
+            "level": "5",
+            "permillage": "0"
+        },
+        {
+            "id": "430",
+            "code": "195",
+            "name": "牛鞭",
+            "gold": "50000",
+            "descript": "牛鞭,五级食材",
+            "odds": "100",
+            "level": "5",
+            "permillage": "0"
+        },
+        {
+            "id": "431",
+            "code": "196",
+            "name": "鱼唇",
+            "gold": "50000",
+            "descript": "鱼唇,五级食材",
+            "odds": "100",
+            "level": "5",
+            "permillage": "0"
+        },
+        {
+            "id": "432",
+            "code": "197",
+            "name": "竹荪",
+            "gold": "50000",
+            "descript": "竹荪,五级食材",
+            "odds": "100",
+            "level": "5",
+            "permillage": "0"
+        },
+        {
+            "id": "433",
+            "code": "198",
+            "name": "鹿尾",
+            "gold": "50000",
+            "descript": "鹿尾,五级食材",
+            "odds": "100",
+            "level": "5",
+            "permillage": "0"
+        },
+        {
+            "id": "434",
+            "code": "199",
+            "name": "鹿筋",
+            "gold": "50000",
+            "descript": "鹿筋,五级食材",
+            "odds": "100",
+            "level": "5",
+            "permillage": "0"
+        },
+        {
+            "id": "435",
+            "code": "200",
+            "name": "帝王蟹",
+            "gold": "50000",
+            "descript": "帝王蟹,五级食材",
+            "odds": "100",
+            "level": "5",
+            "permillage": "0"
+        },
+        {
+            "id": "436",
+            "code": "201",
+            "name": "哈士蟆",
+            "gold": "50000",
+            "descript": "哈士蟆,五级食材",
+            "odds": "100",
+            "level": "5",
+            "permillage": "0"
+        },
+        {
+            "id": "437",
+            "code": "202",
+            "name": "全麦粉",
+            "gold": "50000",
+            "descript": "全麦粉,五级食材",
+            "odds": "100",
+            "level": "5",
+            "permillage": "0"
+        },
+        {
+            "id": "438",
+            "code": "203",
+            "name": "槟榔芋",
+            "gold": "50000",
+            "descript": "槟榔芋,五级食材",
+            "odds": "100",
+            "level": "5",
+            "permillage": "0"
+        },
+        {
+            "id": "439",
+            "code": "204",
+            "name": "碧梗米",
+            "gold": "50000",
+            "descript": "碧梗米,五级食材",
+            "odds": "100",
+            "level": "5",
+            "permillage": "0"
+        },
+        {
+            "id": "440",
+            "code": "205",
+            "name": "碧根果",
+            "gold": "50000",
+            "descript": "碧根果,五级食材",
+            "odds": "100",
+            "level": "5",
+            "permillage": "0"
+        },
+        {
+            "id": "441",
+            "code": "206",
+            "name": "永州蕲蛇",
+            "gold": "50000",
+            "descript": "永州蕲蛇,五级食材",
+            "odds": "100",
+            "level": "5",
+            "permillage": "0"
+        },
+        {
+            "id": "442",
+            "code": "207",
+            "name": "长江刀鱼",
+            "gold": "50000",
+            "descript": "长江刀鱼,五级食材",
+            "odds": "100",
+            "level": "5",
+            "permillage": "0"
+        },
+        {
+            "id": "443",
+            "code": "208",
+            "name": "番红花粉",
+            "gold": "50000",
+            "descript": "番红花粉,五级食材",
+            "odds": "100",
+            "level": "5",
+            "permillage": "0"
+        },
+        {
+            "id": "444",
+            "code": "209",
+            "name": "铁棍山药",
+            "gold": "50000",
+            "descript": "铁棍山药,五级食材",
+            "odds": "100",
+            "level": "5",
+            "permillage": "0"
+        },
+        {
+            "id": "445",
+            "code": "210",
+            "name": "连城白鸭",
+            "gold": "50000",
+            "descript": "连城白鸭,五级食材",
+            "odds": "100",
+            "level": "5",
+            "permillage": "0"
+        },
+        {
+            "id": "446",
+            "code": "211",
+            "name": "驼掌",
+            "gold": "50000",
+            "descript": "驼掌,五级食材",
+            "odds": "100",
+            "level": "5",
+            "permillage": "0"
+        },
+        {
+            "id": "447",
+            "code": "212",
+            "name": "橄榄油",
+            "gold": "100000",
+            "descript": "橄榄油,六级食材",
+            "odds": "100",
+            "level": "6",
+            "permillage": "0"
+        },
+        {
+            "id": "448",
+            "code": "213",
+            "name": "三文鱼",
+            "gold": "100000",
+            "descript": "三文鱼,六级食材",
+            "odds": "100",
+            "level": "6",
+            "permillage": "0"
+        },
+        {
+            "id": "449",
+            "code": "214",
+            "name": "黑胡椒",
+            "gold": "100000",
+            "descript": "黑胡椒,六级食材",
+            "odds": "100",
+            "level": "6",
+            "permillage": "0"
+        },
+        {
+            "id": "450",
+            "code": "215",
+            "name": "迷迭香",
+            "gold": "100000",
+            "descript": "迷迭香,六级食材",
+            "odds": "100",
+            "level": "6",
+            "permillage": "0"
+        },
+        {
+            "id": "451",
+            "code": "216",
+            "name": "意大利面",
+            "gold": "100000",
+            "descript": "意大利面,六级食材",
+            "odds": "100",
+            "level": "6",
+            "permillage": "0"
+        },
+        {
+            "id": "452",
+            "code": "217",
+            "name": "手指饼干",
+            "gold": "100000",
+            "descript": "手指饼干,六级食材",
+            "odds": "100",
+            "level": "6",
+            "permillage": "0"
+        },
+        {
+            "id": "453",
+            "code": "218",
+            "name": "奎宁牛小排",
+            "gold": "100000",
+            "descript": "奎宁牛小排,六级食材",
+            "odds": "100",
+            "level": "6",
+            "permillage": "0"
+        },
+        {
+            "id": "454",
+            "code": "219",
+            "name": "意大利蕃茄",
+            "gold": "100000",
+            "descript": "意大利蕃茄,六级食材",
+            "odds": "100",
+            "level": "6",
+            "permillage": "0"
+        },
+        {
+            "id": "455",
+            "code": "220",
+            "name": "马斯卡彭芝士",
+            "gold": "100000",
+            "descript": "马斯卡彭芝士,六级食材",
+            "odds": "100",
+            "level": "6",
+            "permillage": "0"
+        },
+        {
+            "id": "456",
+            "code": "221",
+            "name": "马沙拉白葡萄酒",
+            "gold": "100000",
+            "descript": "马沙拉白葡萄酒,六级食材",
+            "odds": "100",
+            "level": "6",
+            "permillage": "0"
+        },
+        {
+            "id": "457",
+            "code": "222",
+            "name": "神秘九天翅",
+            "gold": "1000000",
+            "descript": "神秘九天翅,神秘食材,非常稀有",
+            "odds": "10",
+            "level": "7",
+            "permillage": "0"
+        },
+        {
+            "id": "458",
+            "code": "223",
+            "name": "神秘九孔鲍",
+            "gold": "1000000",
+            "descript": "神秘九孔鲍,神秘食材,非常稀有",
+            "odds": "10",
+            "level": "7",
+            "permillage": "0"
+        },
+        {
+            "id": "459",
+            "code": "224",
+            "name": "神秘黄金肚",
+            "gold": "1000000",
+            "descript": "神秘黄金肚,神秘食材,非常稀有",
+            "odds": "10",
+            "level": "7",
+            "permillage": "0"
+        },
+        {
+            "id": "460",
+            "code": "225",
+            "name": "神秘高山虫",
+            "gold": "1000000",
+            "descript": "神秘高山虫,神秘食材,非常稀有",
+            "odds": "10",
+            "level": "7",
+            "permillage": "0"
+        },
+        {
+            "id": "461",
+            "code": "226",
+            "name": "神秘金丝盏",
+            "gold": "1000000",
+            "descript": "神秘金丝盏,神秘食材,非常稀有",
+            "odds": "10",
+            "level": "7",
+            "permillage": "0"
+        },
+        {
+            "id": "462",
+            "code": "227",
+            "name": "神秘龙涎香",
+            "gold": "1000000",
+            "descript": "神秘龙涎香,神秘食材,非常稀有",
+            "odds": "10",
+            "level": "7",
+            "permillage": "0"
+        },
+        {
+            "id": "463",
+            "code": "228",
+            "name": "神秘金蟾菇",
+            "gold": "1000000",
+            "descript": "神秘金蟾菇,神秘食材,非常稀有",
+            "odds": "10",
+            "level": "7",
+            "permillage": "0"
+        },
+        {
+            "id": "464",
+            "code": "229",
+            "name": "神秘雪川雏",
+            "gold": "1000000",
+            "descript": "神秘雪川雏,神秘食材,非常稀有",
+            "odds": "10",
+            "level": "7",
+            "permillage": "0"
+        },
+        {
+            "id": "465",
+            "code": "230",
+            "name": "神秘金钱鳘",
+            "gold": "1000000",
+            "descript": "神秘金钱鳘,神秘食材,非常稀有",
+            "odds": "10",
+            "level": "7",
+            "permillage": "0"
+        },
+        {
+            "id": "466",
+            "code": "231",
+            "name": "神秘宝田犊",
+            "gold": "1000000",
+            "descript": "神秘宝田犊,神秘食材,非常稀有",
+            "odds": "10",
+            "level": "7",
+            "permillage": "0"
+        },
+        {
+            "id": "467",
+            "code": "232",
+            "name": "一级万能食材",
+            "gold": "1000000",
+            "descript": "一级万能食材",
+            "odds": "100",
+            "level": "9",
+            "permillage": "0"
+        },
+        {
+            "id": "468",
+            "code": "233",
+            "name": "二级万能食材",
+            "gold": "1000000",
+            "descript": "二级万能食材",
+            "odds": "100",
+            "level": "9",
+            "permillage": "0"
+        },
+        {
+            "id": "469",
+            "code": "234",
+            "name": "三级万能食材",
+            "gold": "1000000",
+            "descript": "三级万能食材",
+            "odds": "100",
+            "level": "9",
+            "permillage": "0"
+        },
+        {
+            "id": "470",
+            "code": "235",
+            "name": "四级万能食材",
+            "gold": "1000000",
+            "descript": "四级万能食材",
+            "odds": "100",
+            "level": "9",
+            "permillage": "0"
+        },
+        {
+            "id": "471",
+            "code": "236",
+            "name": "五级万能食材",
+            "gold": "1000000",
+            "descript": "五级万能食材",
+            "odds": "100",
+            "level": "9",
+            "permillage": "0"
+        }
+    ]
+}

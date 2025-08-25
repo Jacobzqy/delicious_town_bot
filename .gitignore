@@ -4,4 +4,6 @@ __pycache__/
 *.log
 /.idea
 .venv/
+tests
 data/initial_accounts.json
+data/delicious_town_bot.db
